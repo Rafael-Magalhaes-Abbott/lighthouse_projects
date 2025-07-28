@@ -8,5 +8,11 @@
     "nome": "STO_DeliveryDate_Change",
     "descricao": "Automatic Creation of STO's",
     "url_zip": "https://github.com/Rafael-Magalhaes-Abbott/STO_Automation/blob/main/STO_Automation.zip"
+  },
+  
+{
+    "nome": "repo_Test",
+    "descricao": "Projeto de teste com estrutura de automação",
+    "url_zip": "https://github.com/Rafael-Magalhaes-Abbott/repo_Test/archive/refs/heads/main.zip"
   }
 ]
